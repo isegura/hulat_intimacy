@@ -9,8 +9,13 @@ This repository contains all the code of our participation (HULAT) at emEval-202
 A detailed description of our system is described in: 
 
 @InProceedings{segura2023hulatintimacy,
+
   title={HULAT at SemEval-2023 Task 9: Data augmentation for pre-trained transformers applied to Multilingual Tweet Intimacy Analysis},
+  
   author={Segura-Bedmar, Isabel},
+  
   booktitle = {17th International Workshop on Semantic Evaluation (SemEval-2023)},
+  
   year = {2023}
+  
 }
