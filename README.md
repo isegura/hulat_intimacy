@@ -6,8 +6,8 @@ This repository contains all the code of our participation (HULAT) at emEval-202
 - how_split_MINT.ipynb: in this notebook, you can find the code to split the original training dataset into the three splits that we used during the development phase. 
 - DA4intimacy.ipynb: this notebook includes the data augmentation techniques that we used to increase the training dataset for this task. 
 
-A detailed description of our system is described in https://arxiv.org/abs/2302.12794: 
 Please properly cite our work if you find them useful.
+
 
     @InProceedings{segura2023hulatintimacy,
 
